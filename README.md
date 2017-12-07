@@ -8,4 +8,4 @@
 
 2. Check the Example() method in the script if you wish to do everything programmatically.
 
-![]('https://github.com/domenkoneski/simple-animations-unity3d/blob/master/preview.gif')
+![](https://github.com/domenkoneski/simple-animations-unity3d/blob/master/preview.gif)
